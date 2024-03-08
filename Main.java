@@ -16,7 +16,6 @@ public class Main {
         }
 
     }
-
     public static HashSet<String> nameStudent() {
         HashSet<String> nameStudent = new HashSet<>();
         nameStudent.add("Sergio");
@@ -26,5 +25,6 @@ public class Main {
         nameStudent.add("Riccardo");
         return nameStudent;
     }
+
 
 }
